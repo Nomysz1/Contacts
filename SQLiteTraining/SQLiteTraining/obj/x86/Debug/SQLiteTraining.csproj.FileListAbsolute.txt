@@ -1,0 +1,17 @@
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\SQLiteTraining.exe
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\SQLiteTraining.pdb
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\obj\x86\Debug\SQLiteTraining.FormSave.resources
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\obj\x86\Debug\SQLiteTraining.Properties.Resources.resources
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\obj\x86\Debug\SQLiteTraining.csproj.GenerateResource.Cache
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\obj\x86\Debug\SQLiteTraining.exe
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\obj\x86\Debug\SQLiteTraining.pdb
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\SQLiteTraining.exe.config
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\EntityFramework.dll
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\System.Data.SQLite.dll
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\EntityFramework.xml
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\bin\Debug\System.Data.SQLite.xml
+C:\Users\Szymon\Documents\VS\SQLiteTraining\SQLiteTraining\obj\x86\Debug\SQLiteTraining.Add.resources
